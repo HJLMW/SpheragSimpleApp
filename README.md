@@ -1,7 +1,7 @@
 # Spherag Water Management App
 
 ## Description
-A simple mobile application developed in **React Native** for the company **Spherag**. The app allows users to monitor and control irrigation systems and other connected devices on farms, offering an intuitive interface to visualize the status of each component and its location in a Map. (such as pumps, valves, flow meters, etc.).
+A simple mobile application developed in **React Native** and Redux for global state management, created for the company **Spherag**. The app allows users to monitor and control irrigation systems and other connected devices on farms, offering an intuitive interface to visualize the status of each component and its location in a Map. (such as pumps, valves, flow meters, etc.).
 
 ### Important Notes:
 - The app displays fictional types of atlases, meaning the information presented is not real.
